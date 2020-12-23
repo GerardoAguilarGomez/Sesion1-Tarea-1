@@ -8,6 +8,7 @@ namespace Sesion1_Tarea_1
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
+            Console.WriteLine("Adios mundo");
         }
     }
 }
